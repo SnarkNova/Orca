@@ -9,8 +9,8 @@
 ## 그 외
 * 처음부터 가독성과 편의, 직관적이고 처음 사용해본 유저도 쉽게 사용할 수 있게 개발되었습니다.
 
-## 오픈소스
-* 2025. 1. 2. MIT 라이선스 FOSS 전환
+## 2025. 1. 2.
+* MIT 라이선스 FOSS 전환
 
 ## 크레딧
 * discord.py - [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
